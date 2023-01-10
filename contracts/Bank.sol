@@ -19,7 +19,7 @@ contract Bank {
     function withdraw() external /*reentrancyGuard*/
     {
         require(balances[msg.sender] > 0);
-        // Checks effectrs interactions fixes this
+        // Checks effects interactions fixes this
         (bool success, ) = msg.sender.call{value: balances[msg.sender]}("");
         require(success);
         balances[msg.sender] = 0;
