@@ -4,6 +4,7 @@ pragma solidity ^0.8.7;
 contract Bank {
     mapping(address => uint) balances;
 
+    //best way to protect against reentrancy attack
     bool reentrant = true;
     modifier reentrancyGuard() {
         require(reentrant);
