@@ -10,7 +10,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Aboudoc/reentrancy-demo">
+  <a href="https://github.com/Aboudoc/Reentrancy-demo">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -109,7 +109,7 @@ To get a local copy up and running follow these simple example steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/Aboudoc/AU-proxies.git
+   git clone https://github.com/Aboudoc/Reentrancy-demo.git
    ```
 2. Install NPM packages
    ```sh
@@ -200,7 +200,7 @@ Remember, though, that gas costs are subject to change, which means this is a ba
 
 - [ ] unit test
 
-See the [open issues](https://github.com/Aboudoc/Ethernaut-OpenZeppelin/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/Aboudoc/Reentrancy-demo/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -233,9 +233,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Reda Aboutika - [@twitter_AboutikaR](https://twitter.com/AboutikaR) - reda.aboutika@gmail.com
+Reda Aboutika - [@twitter](https://twitter.com/AboutikaR) - reda.aboutika@gmail.com
 
-Project Link: [https://github.com/Aboudoc/Ethernaut-OpenZeppelin](https://github.com/Aboudoc/Ethernaut-OpenZeppelin)
+Project Link: [https://github.com/Aboudoc/Reentrancy-demo](https://github.com/Aboudoc/Reentrancy-demo)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -262,7 +262,7 @@ Project Link: [https://github.com/Aboudoc/Ethernaut-OpenZeppelin](https://github
 [license-url]: https://github.com/Aboudoc/Ethernaut-OpenZeppelin/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/r%C3%A9da-aboutika-34305453/?originalSubdomain=fr
-[product-screenshot]: https://res.cloudinary.com/divzjiip8/image/upload/c_scale,w_239/v1587421101/mascots_dge1th.png
+[product-screenshot]: https://i1.wp.com/blog.openzeppelin.com/wp-content/uploads/2019/05/Solidity-1.png?fit=1200%2C633&ssl=1
 [Hardhat]: https://img.shields.io/badge/Hardhat-20232A?style=for-the-badge&logo=hardhat&logoColor=61DAFB
 [Hardhat-url]: https://hardhat.org/
 [Ethers.js]: https://img.shields.io/badge/ethers.js-000000?style=for-the-badge&logo=ethersdotjs&logoColor=white
