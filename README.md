@@ -126,7 +126,7 @@ If you need testnet funds, use the [Alchemy testnet faucet](https://goerlifaucet
 
 **This project shows the re-entrancy attack and how to protect against it**
 
-### Checks-Effects-Interactions Pattern
+### Checks-Effects-Interactions Pattern
 
 The simplest way to eliminate reentrancy bugs is to use the [checks-effects-interactions pattern](https://docs.soliditylang.org/en/v0.5.11/security-considerations.html#re-entrancy).
 
